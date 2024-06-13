@@ -5,4 +5,4 @@ Python script that checks the storage capacity of a chosen directory by creating
 pip install psutil tqdm
 ```
 ## Disclaimer
-Please note that this script writes data to the chosen directory to estimate its capacity. Use it responsibly and **ensure you have backup data before running the script**.
+Please note that this script writes data to the chosen directory to estimate its capacity. Use it responsibly and **ensure you have backup data before running the script** .
